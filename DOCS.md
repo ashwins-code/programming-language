@@ -1,5 +1,11 @@
 # DOCS
 
+## How to run programs
+
+You would need Node.js to run this project.
+
+Run "app.js" in the command line and enter the filename you want to run.
+
 ## Ouput
 
 ```lex
