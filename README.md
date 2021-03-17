@@ -1,4 +1,4 @@
-# My Own Programming Language Written in Node.js
+# My Own Programming Language Written with Node.js
 
 Look at DOCS.md for how to use the language.
 
