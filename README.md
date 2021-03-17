@@ -1,6 +1,6 @@
 # My Own Programming Language Written in Node.js
 
-Look at DOCS.md for how to use the language
+Look at DOCS.md for how to use the language.
 
 ## Planning to add
 
