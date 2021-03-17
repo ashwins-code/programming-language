@@ -2,10 +2,10 @@ func fizzbuzz(start, end) {
 	for num range(start, end, 1) {
 		out = ""
 		if num % 3 == 0 {
-			out += "fizz"
+			out = out + "fizz"
 		}
 		if num % 5 == 0 {
-			out += "buzz"
+			out = out + "buzz"
 		}
 		
 		println(num, out)
